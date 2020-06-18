@@ -35,7 +35,7 @@
 }
 
 - (IBAction)playOnlineURL:(UIButton *)sender {
-    NSString *defaultURLString = @"http://d8d913s460fub.cloudfront.net/krpanocloud/video/airpano/video-1920x960a.mp4";
+    NSString *defaultURLString = @"http://c.jako.pro/waken41/20200615T123223Z/article/assets/03_ENTREVISTA_RECTA_360.mp4";
     UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"Play Online URL"
                                                                    message:@"Enter the URL"
                                                             preferredStyle:UIAlertControllerStyleAlert];
